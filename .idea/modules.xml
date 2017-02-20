@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ETC/ETC.iml" filepath="$PROJECT_DIR$/ETC/ETC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exam 1 Scratch Code/Exam 1 Scratch Code.iml" filepath="$PROJECT_DIR$/Exam 1 Scratch Code/Exam 1 Scratch Code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exam 2 Scratch Code/Exam 2 Scratch Code.iml" filepath="$PROJECT_DIR$/Exam 2 Scratch Code/Exam 2 Scratch Code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW1/HW1.iml" filepath="$PROJECT_DIR$/HW1/HW1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW10/HW10.iml" filepath="$PROJECT_DIR$/HW10/HW10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW2/HW2.iml" filepath="$PROJECT_DIR$/HW2/HW2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW3/HW3.iml" filepath="$PROJECT_DIR$/HW3/HW3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW4/HW4.iml" filepath="$PROJECT_DIR$/HW4/HW4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW5/HW5.iml" filepath="$PROJECT_DIR$/HW5/HW5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW6/HW6.iml" filepath="$PROJECT_DIR$/HW6/HW6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW7/HW7.iml" filepath="$PROJECT_DIR$/HW7/HW7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW8/HW8.iml" filepath="$PROJECT_DIR$/HW8/HW8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW9/HW9.iml" filepath="$PROJECT_DIR$/HW9/HW9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RA11/RA11.iml" filepath="$PROJECT_DIR$/RA11/RA11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RA2/RA2.iml" filepath="$PROJECT_DIR$/RA2/RA2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RA3/RA3.iml" filepath="$PROJECT_DIR$/RA3/RA3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RA6/RA6.iml" filepath="$PROJECT_DIR$/RA6/RA6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RA8/RA8.iml" filepath="$PROJECT_DIR$/RA8/RA8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RA9/RA9.iml" filepath="$PROJECT_DIR$/RA9/RA9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Scratch/Scratch.iml" filepath="$PROJECT_DIR$/Scratch/Scratch.iml" />
+    </modules>
+  </component>
+</project>
